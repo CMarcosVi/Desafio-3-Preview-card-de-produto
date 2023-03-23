@@ -93,6 +93,7 @@ button{
         align-items: center;
     }
     .image{
+        object-fit: cover;
         height: 20rem;
         width: 100%;
         border-radius: .5rem .5rem 0rem 0rem;
